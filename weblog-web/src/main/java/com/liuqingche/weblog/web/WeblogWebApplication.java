@@ -1,4 +1,4 @@
-package com.example.weblog.web;
+package com.liuqingche.weblog.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,13 +1,13 @@
-package com.example.weblog.web;
+package com.liuqingche.weblog.common;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WeblogWebApplicationTests {
+class WeblogModuleCommonApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }

@@ -1,10 +1,10 @@
-package com.quanxiaoha.weblog.common;
+package com.liuqingche.weblog.admin;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WeblogModuleCommonApplicationTests {
+class WeblogModuleAdminApplicationTests {
 
 	@Test
 	void contextLoads() {
